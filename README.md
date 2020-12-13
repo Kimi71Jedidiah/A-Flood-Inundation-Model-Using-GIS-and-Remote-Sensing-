@@ -1,6 +1,6 @@
-# Am205 Final Project
-## A Distributed Flood Inundation Model for Han River, China 
-## Using GIS and Remote Sensising Data	
+Am205 Final Project
+## A Distributed Flood Inundation Model Using GIS and Remote Sensising Data	
+### Han River, China as a Study Case
 
 
 Scarlett Gong, wenlin_gong@g.harvard
