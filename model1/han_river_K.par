@@ -1,0 +1,22 @@
+# Kinematic channel solver
+#
+DEMfile	DEM9999.asc
+resroot	res
+dirroot	results
+sim_time	100000.0
+initial_tstep	1.0
+massint	100.0
+saveint	10000.0
+overpass	10000.0
+fpfric	0.25
+infiltration 0.000001
+
+bcifile	han_river_KD.bci
+#diffusive
+debug
+# weirfile	han_river.weir
+
+riverfile	han_river_K.river
+
+
+
