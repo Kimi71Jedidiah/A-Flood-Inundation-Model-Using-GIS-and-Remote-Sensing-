@@ -27,7 +27,7 @@ for col in data.columns:
 		c += 1
 	r += 1
 
-npdata = int(npdata/maxdata*255)
+
 print(npdata[3])
 img = Image.fromarray(npdata, 'RGB')
 img.save("norain_8e3.png")
