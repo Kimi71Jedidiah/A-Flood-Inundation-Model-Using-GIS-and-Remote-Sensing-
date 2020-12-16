@@ -1,4 +1,4 @@
-### Model 2: Rain & Small Initial Discharge
+### Model 2: No Rain & Large Initial Discharge
 
 Required OS: Windows
 
