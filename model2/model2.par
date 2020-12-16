@@ -1,0 +1,21 @@
+# no rain, large initial discharge at 8e4
+#
+DEMfile	dem.asc
+resroot	res_8e4
+dirroot	results
+sim_time	4000000.0
+initial_tstep	1.0
+massint	10000.0
+saveint	10000.0
+overpass	100000.0
+fpfric	0.06
+
+bcifile	test.bci
+
+elevoff
+adaptoff
+chainageoff
+diffusive
+debug
+
+riverfile hanriver.river
