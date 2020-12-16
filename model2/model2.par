@@ -1,7 +1,7 @@
-# no rain, large initial discharge at 8e4
+# rain, small initial discharge at 8e3
 #
 DEMfile	dem.asc
-resroot	res_8e4
+resroot	res_8e3_rain
 dirroot	results
 sim_time	4000000.0
 initial_tstep	1.0
