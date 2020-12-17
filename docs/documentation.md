@@ -4,6 +4,8 @@
 
 ### 1.1 Model Parameter file （model.par）
 
+Model parameters file
+
 ### 1.2 Digital Elevation file (dem.asc)
 
 This file specifies the Digital Elevation Model used by the model. It consists of a 2D raster array of ground elevations in ARC ascii raster format. The file may be manipulated using either the ARC-View or ARCGIS Geographical Information System platforms or manually edited using a text editor.
@@ -33,7 +35,13 @@ We provide the three river characteristics' parameters - width, manning's n fric
 We provide initial conditions for the starting point and ending point of the river. Initial 
 
 
-### 1.4 Boundary Conditions (han_river_K.river)
+### 1.4 Boundary Conditions (test.bci)
+
+Specify boundary conditions for overplain flow.
+
+### 1.5 Rain file (rain.rain)
+
+Specify rainfall amount.
 
 ## 2 Model Outputs
 
