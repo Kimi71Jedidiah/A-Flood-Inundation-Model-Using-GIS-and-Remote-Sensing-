@@ -1,4 +1,4 @@
-Am205 Final Project
+Advanced Scientific Computing: Numerical Methods Project
 ## A Distributed Flood Inundation Model Using GIS and Remote Sensising Data	
 ### Han River, China as a Study Case
 
