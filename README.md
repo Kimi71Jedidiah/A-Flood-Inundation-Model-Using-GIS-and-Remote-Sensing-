@@ -3,6 +3,7 @@ Advanced Scientific Computing: Numerical Methods Project
 ### Han River, China as a Study Case
 
 Qinyi Chen, qychen@g.harvard.edu
+
 Scarlett Gong, wenlin_gong@g.harvard
 
 **Goal**: Besides Covid-19, another natural catastrophe--a 21 numbered floods (floods of a certain large scale) hit China in 2020 and is described as the worst floods since 1998. Started in early June 2020, heavy rains caused by the regional rainy season led to floods severely affecting large areas of southern China including the Yangtze River and its longest tributary, the Han River. According to the Ministry of Water Resources, a total of 443 rivers nationwide have been flooded, with 33 of them swelling to the highest levels ever recorded. 
